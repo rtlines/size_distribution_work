@@ -57,7 +57,7 @@ for n, c in enumerate(w):
 plt.subplot(3, 2, 5)
 plt.bar(lxticks, height = nconc, width = lw, alpha = 0.8)
 plt.subplot(3, 2, 6)
-plt.bar(lxticks[0:5], height = nconc[0:5], width = lw[0:5], alpha = 0.8)
+plt.bar(lxticks[0:5], height = nconc[0:5], width = lw[0:5], alpha = 0.7)
 
 
 plt.show
