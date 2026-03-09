@@ -1,4 +1,4 @@
-Time,Size1,Count1 (dM3),Size2,Count2 (dM3),Size3,Count3 (dM3),Size4,Count4 (dM3),Size5,Count5 (dM3),Size6,Count6 (dM3),AT (C),RH (%),Location,Seconds,A1Size,A2Size,Status,time,time,altitude
+Time,Size1,Count1 (dM3),Size2,Count2 (dM3),Size3,Count3 (dM3),Size4,Count4 (dM3),Size5,Count5 (dM3),Size6,Count6 (dM3),AT (C),RH (%),Location,Seconds,A1Size,A2Size,Status,time (local),time (UTC),altitude
 2/7/2026 9:44,0.3,7416813,0.5,1174496,1,89720,2,9890,5,0,10,0,,,100,60,,,0,2/7/2026 9:44,2/7/2026 16:44,2102
 2/7/2026 9:45,0.3,21988342,0.5,3787001,1,278700,2,37089,5,0,10,0,,,100,60,,,0,,,
 2/7/2026 9:46,0.3,19399504,0.5,3084069,1,238431,2,40268,5,0,10,0,,,100,60,,,0,,,
